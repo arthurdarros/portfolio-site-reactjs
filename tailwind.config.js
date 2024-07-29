@@ -8,7 +8,10 @@ export default {
     extend: {
       fontFamily:{
         sans: 'Inter',
-      }
+      },
+      colors:{
+        'orange-skin': '#BF7E6F'
+      },
     },
   },
   plugins: [],
